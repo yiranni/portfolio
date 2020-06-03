@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Yiran&#39;s Portfolio",
   "author": "Yiran Ni",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
