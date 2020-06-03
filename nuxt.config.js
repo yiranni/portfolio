@@ -43,7 +43,7 @@ export default {
   ],
 
   router: {
-    base: "https://yiranni.github.io/WhoIsMoreDangerous/",
+    base: "https://yiranni.github.io/portfolio/",
     mode: "hash"
   },
   /*
