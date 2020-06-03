@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Shark Attacks",
+        "year": "June 2020",
+        "path": "/project/shark",
+        "img": "shark.png"
+    },
+    {
+        "name": "3D Museum",
+        "year": "May 2020",
+        "path": "/project/museum",
+        "img": "museum.png"
+    },
+    {
+        "name": "Global Journey of Zoonotic Diseases",
+        "year": "May 2020",
+        "path": "/project/wildlife",
+        "img": "wildlife.png"
+    },
+    
+   
+    {
+        "name": "Color In Landscape",
+        "year": "Dec 2019",
+        "path": "/project/color",
+        "img": "color.png"
+    }
+]
