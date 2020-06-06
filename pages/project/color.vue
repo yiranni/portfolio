@@ -22,6 +22,11 @@
             <p>Interation</p>
           </div>
           <div class="info">
+            <h4>DATA VIZ</h4>
+            <p>Scatterplot</p>
+
+          </div>
+          <div class="info">
             <h4>DATA</h4>
             <a
               href="https://metmuseum.github.io/"

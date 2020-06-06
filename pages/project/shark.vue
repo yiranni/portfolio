@@ -8,9 +8,9 @@
         <div class="project-info">
           <div class="info">
             <h4>TOOLS</h4>
-             <p>vue.js</p>
+            <p>vue.js</p>
             <p>d3.js</p>
-           
+
             <p>jQuery</p>
           </div>
 
@@ -22,6 +22,14 @@
             <p>Interation</p>
           </div>
           <div class="info">
+            <h4>DATA VIZ</h4>
+            <p>Choropleth Heatmap</p>
+            <p>Area Chart</p>
+
+            <p>Dot Chart</p>
+            <p>Bar Chart</p>
+          </div>
+          <div class="info">
             <h4>DATA</h4>
             <a
               href="https://www.kaggle.com/teajay/global-shark-attacks"
@@ -30,17 +38,21 @@
           </div>
           <div class="info">
             <h4>LINK</h4>
-            <a
-              href="https://yiranni.github.io/WhoIsMoreDangerous/#/"
-              target="_blank"
-            >Shark Attacks</a>
+            <a href="https://yiranni.github.io/WhoIsMoreDangerous/#/" target="_blank">Shark Attacks</a>
           </div>
+          
         </div>
         <div class="project-descr">
           <div class="descr">
-           
+            <p>
+              <b>Overview of shark attacks in the past 20 years</b> visualizes public data of shark attacks and analyzes cases from 2000. The project begins with an overview of where shark attack cases happen by empoloying color-coded
+              <b>world map</b>. In the following, it displays shark attack cases including fatality from perspectives of
+              <b>hemispheres</b>,
+              <b>genders</b>,
+              <b>ages</b>, and
+              <b>activities</b>.
+            </p>
           </div>
-         
         </div>
       </div>
       <div class="project-demo">
@@ -143,7 +155,7 @@ export default {
   width: 100%;
 }
 
-.descr a{
+.descr a {
   color: black;
 }
 

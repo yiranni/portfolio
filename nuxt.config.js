@@ -42,10 +42,10 @@ export default {
   modules: [
   ],
 
-  router: {
-    base: "https://yiranni.github.io/portfolio/",
-    mode: "hash"
-  },
+  // router: {
+  //   base: "https://yiranni.github.io/portfolio/",
+  //   mode: "hash"
+  // },
   /*
   ** Build configuration
   */

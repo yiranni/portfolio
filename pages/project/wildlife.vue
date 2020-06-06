@@ -20,6 +20,16 @@
             <p>Interation</p>
           </div>
           <div class="info">
+            <h4>DATA VIZ</h4>
+            <p>Choropleth Heatmap</p>
+            <p>Pictorial Fraction Chart</p>
+    <p>Donut Chart</p>
+            <p>Dot Plot</p>
+            <p>Lollipop Chart</p>
+            <p>Pictorial Unit Chart</p>
+            <p>Line Chart</p>
+          </div>
+          <div class="info">
             <h4>DATA</h4>
             <a
               href="https://trade.cites.org//"
